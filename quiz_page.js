@@ -1,0 +1,1 @@
+document.getElementById("player1_name").innerHTML = player1_name + "&nbsp;" + ":" ;
